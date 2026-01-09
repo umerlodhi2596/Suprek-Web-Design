@@ -830,11 +830,15 @@ h6 {
   background-color: var(--bg-primary);
 }
 
+.footer-icons-wapper {
+  padding-top: 12px;
+}
+
 .footer-social {
   display: flex;
   gap: 12px;
-  margin-top: 20px;
 }
+
 
 .footer-social li {
   width: 36px;
